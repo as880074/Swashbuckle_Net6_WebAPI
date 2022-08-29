@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "f4D09K7SkiDpVxhSqAHoHPiCiHwDIyRUIncCOOXQsNM=",
+  "Source": "SwashbuckleWebAPI",
+  "BasePath": "_content/SwashbuckleWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
